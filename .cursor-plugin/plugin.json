@@ -1,0 +1,27 @@
+{
+  "name": "meter",
+  "displayName": "Meter",
+  "version": "0.2.0",
+  "description": "Modern taste and culture for the agentic experience layer — visual craft skills for motion, typography, color, and composition.",
+  "author": {
+    "name": "abstractonion",
+    "url": "https://github.com/abstractonion"
+  },
+  "homepage": "https://github.com/abstractonion/meter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abstractonion/meter"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "skills",
+    "typography",
+    "color",
+    "motion",
+    "composition",
+    "ui",
+    "taste",
+    "craft"
+  ]
+}
